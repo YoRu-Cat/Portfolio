@@ -113,6 +113,9 @@
 		margin-top: 4rem;
 		margin-bottom: 10rem;
 	}
+	.home .home-content p {
+		font-size: 1.3rem;
+	}
 }
 @media (max-width: 462px) {
 	.home-content h1 {
